@@ -1,9 +1,10 @@
-# TobaccoEffect
 
-In this research study, we are aimed to investigate the impact of different parameters on usage of taboco in different contries.
+# Tobacco Effect
 
-This is a data science project without any socio-economic study behind taht. Our results will show the impact of paramters on tabaco usage.
+In this research study, we are aimed to investigate the impact of different parameters on the usage of tobacco in different countries.
 
-We start with 3 data sets including data about "ban on advetising tabaco", "countries' economic situation" and "tabaco usage in countries", and try to find the impact first and second parameters on the tabaco usage as the result.
+This is a data science project without any socio-economic study behind that. Our results will show the impact of parameters on tobacco usage.
 
-Problem defintion: "Which parameters among all detected have more impact on tabaco usage in different countries?"
+We start with 3 data sets including data about "ban on advertising tobacco", "countries' economic situation" and "tobacco usage in countries", and try to find the impact first and second parameters on tobacco usage as the result.
+
+Problem definition: "*Which parameters among all detected have more impact on tobacco usage in different countries*?"
