@@ -1,0 +1,15 @@
+To do steps:
+1- Cleansing data, including application of KNN algorithm over all tables to fill the appropriate values instead NANs.
+Note: save the resulting tables in .csv format in the directory “Clean_Data”
+
+2- Sampling data for each feature. To apply statistical tests to check significance of difference between distribution of data over years. This should be done over all table and as result we’ll have one sample for each table which could be the mean of values over whole years or predicted value for a specific base year (e.g year 2014).
+
+3-   Concatenated all cleaned samples in a single table.
+
+4- Analysis data. Start with linear regression and then use more complicated learning algorithms and compare the ac curacies.
+
+5- Visualization of results.
+
+6- Write the report.
+
+7- Documentation. 

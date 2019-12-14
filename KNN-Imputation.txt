@@ -1,0 +1,16 @@
+About KNN Imputation:
+
+1- Fill all the blanks simply by mean values.
+
+2- Makes KDtree with this complete data set.
+
+Note: KDtree is just made to bring the identifiers in a binary tree and makes the decision procedure searching for nearest neighbor less expensive. In which for each dimension we have one level as well as one leaf (?) in the tree. Start by root if value of point for first dimension be less than root go to the left side and if not go to right and continue in this way to reach the most appropriate point in the button level of leaves. Decision for ties is up to us to choose between left or right. 
+
+You can assume each level as hyper-plane which divide the whole space of investigation. 
+
+D indicates number of feature in the table of dataset.
+
+3- KNN is done by forest of KDtrees.  
+
+
+
