@@ -1,0 +1,175 @@
+index,Country,Year,currency,price in currency,price in international $,price in US$
+0,Afghanistan,2014,AFN,100.00,2.95,1.73
+1,Albania,2014,ALL,270.00,5.23,2.60
+2,Algeria,2014,DZD,150.00,2.53,1.91
+3,Angola,2014,AOA,200.00,2.18,2.06
+4,Antigua and Barbuda,2014,XCD,8.00,3.99,2.96
+5,Argentina,2014,ARS,15.50,3.65,1.90
+6,Armenia,2014,AMD,600.00,2.74,1.48
+7,Australia,2014,AUD,18.56,11.96,17.31
+8,Austria,2014,EUR,4.90,5.63,6.56
+9,Azerbaijan,2014,AZN,2.50,4.44,3.21
+10,Bahamas,2014,BSD,8.20,11.02,8.20
+11,Bahrain,2014,BHD,1.00,3.42,2.66
+12,Bangladesh,2014,BDT,190.00,5.23,2.45
+13,Barbados,2014,BBD,15.19,12.39,7.60
+14,Belarus,2014,BYR,16000.00,3.10,1.55
+15,Belgium,2014,EUR,5.79,6.44,7.75
+16,Belize,2014,BZD,12.00,11.48,6.00
+17,Bhutan,2014,Not applicable,Not applicable,Not applicable,Not applicable
+18,Bolivia (Plurinational State of),2014,BOB,14.00,3.83,2.03
+19,Bosnia and Herzegovina,2014,BAM,4.30,5.23,2.94
+20,Botswana,2014,BWP,27.33,7.10,3.08
+21,Brazil,2014,BRL,6.75,3.23,2.98
+22,Brunei Darussalam,2014,BND,8.10,8.79,6.52
+23,Bulgaria,2014,BGN,5.20,7.12,3.56
+24,Burkina Faso,2014,XOF,600.00,2.65,1.22
+25,Burundi,2014,BIF,6000.00,7.69,3.88
+26,Cabo Verde,2014,CVE,250.00,3.40,3.03
+27,Cambodia,2014,KHR,5400.00,3.37,1.33
+28,Cameroon,2014,XAF,1100.00,4.21,2.24
+29,Canada,2014,Not applicable,Not applicable,Not applicable,Not applicable
+30,Central African Republic,2014,XAF,2000.00,6.37,4.08
+31,Chad,2014,XAF,1000.00,4.11,2.04
+32,Chile,2014,CLP,2800.00,6.69,4.91
+33,China,2014,CNY,16.00,3.73,2.59
+34,Colombia,2014,COP,3407.00,2.50,1.82
+35,Comoros,2014,KMF,1250.00,4.61,3.40
+36,Congo,2014,XAF,1150.00,3.59,2.35
+37,Costa Rica,2014,CRC,1700.00,4.09,3.16
+38,Côte d'Ivoire,2014,XOF,800.00,2.48,1.63
+39,Croatia,2014,HRK,25.00,5.98,4.39
+40,Cyprus,2014,EUR,4.50,6.16,6.02
+41,Czechia,2014,CZK,91.00,6.73,4.42
+42,Democratic Republic of the Congo,2014,CDF,2600.00,4.64,2.81
+43,Denmark,2014,DKK,44.00,5.06,7.89
+44,Djibouti,2014,DJF,200.00,1.92,1.13
+45,Dominica,2014,XCD,12.00,9.00,4.44
+46,Dominican Republic,2014,DOP,180.00,7.11,4.11
+47,Ecuador,2014,USD,3.50,5.80,3.50
+48,Egypt,2014,EGP,20.00,5.79,2.80
+49,El Salvador,2014,USD,2.75,5.29,0.31
+50,Eritrea,2014,ERN,200.00,15.58,13.01
+51,Estonia,2014,EUR,3.50,5.51,4.68
+52,Eswatini,2014,SZL,48.00,8.97,4.48
+53,Ethiopia,2014,ETB,40.00,5.10,2.04
+54,Fiji,2014,FJD,14.90,8.72,8.03
+55,Finland,2014,EUR,6.00,5.99,8.03
+56,France,2014,EUR,7.00,7.76,9.37
+57,Gambia,2014,GMD,40.00,4.35,0.95
+58,Georgia,2014,GEL,3.20,3.23,1.84
+59,Germany,2014,EUR,5.47,6.45,7.32
+60,Ghana,2014,GHS,6.00,5.50,1.98
+61,Greece,2014,EUR,4.00,5.95,5.35
+62,Grenada,2014,XCD,13.29,8.74,4.92
+63,Guatemala,2014,GTQ,18.00,3.35,2.31
+64,Guinea-Bissau,2014,XOF,600.00,2.79,1.22
+65,Guyana,2014,GYD,500.00,5.19,2.42
+66,Honduras,2014,HNL,38.00,3.76,1.81
+67,Hungary,2014,HUF,1084.21,7.35,4.65
+68,Iceland,2014,ISK,1219.00,8.89,10.59
+69,India,2014,INR,190.00,8.06,3.15
+70,Indonesia,2014,IDR,15500.00,2.12,1.34
+71,Iran (Islamic Republic of),2014,IRR,100000.00,8.81,3.80
+72,Iraq,2014,IQD,3500.00,3.34,3.00
+73,Ireland,2014,EUR,9.60,11.16,12.84
+74,Israel,2014,ILS,30.00,7.78,8.75
+75,Italy,2014,EUR,5.00,5.82,6.69
+76,Jamaica,2014,JMD,820.00,13.32,7.28
+77,Japan,2014,JPY,460.00,4.52,4.48
+78,Jordan,2014,JOD,1.80,2.92,2.54
+79,Kazakhstan,2014,KZT,265.00,1.79,1.45
+80,Kenya,2014,KES,200.00,3.89,2.28
+81,Kiribati,2014,AUD,5.00,19.53,4.66
+82,Kuwait,2014,KWD,0.75,2.34,2.65
+83,Kyrgyzstan,2014,KGS,50.00,2.03,0.97
+84,Lao People's Democratic Republic,2014,LAK,15000.00,3.62,1.86
+85,Latvia,2014,EUR,3.30,7.86,4.42
+86,Lebanon,2014,LBP,3250.00,3.22,2.16
+87,Libya,2014,LYD,4.00,3.58,3.17
+88,Lithuania,2014,LTL,10.20,5.79,3.96
+89,Luxembourg,2014,EUR,5.00,4.71,6.69
+90,Madagascar,2014,MGA,10000.00,9.04,4.06
+91,Malawi,2014,MWK,1200.00,11.14,3.01
+92,Malaysia,2014,MYR,12.00,6.22,3.76
+93,Maldives,2014,MVR,40.00,3.35,2.60
+94,Mali,2014,XOF,700.00,2.36,1.43
+95,Malta,2014,EUR,4.80,7.77,6.42
+96,Marshall Islands,2014,USD,3.50,9.78,3.50
+97,Mauritania,2014,MRO,500.00,3.31,1.74
+98,Mauritius,2014,MUR,155.00,8.66,5.09
+99,Mexico,2014,MXN,45.00,5.08,3.45
+100,Micronesia (Federated States of),2014,USD,3.50,7.97,3.50
+101,Mongolia,2014,MNT,3000.00,2.77,1.60
+102,Montenegro,2014,EUR,2.40,5.47,3.21
+103,Morocco,2014,MAD,32.00,6.43,3.83
+104,Mozambique,2014,MZN,80.00,4.70,2.62
+105,Myanmar,2014,MMK,2300.00,4.54,2.37
+106,Namibia,2014,NAD,38.00,5.46,3.55
+107,Nepal,2014,NPR,170.00,3.89,1.77
+108,Netherlands,2014,EUR,6.32,7.40,8.45
+109,New Zealand,2014,NZD,18.80,11.30,15.95
+110,Niger,2014,XOF,1500.00,5.57,3.06
+111,Norway,2014,NOK,97.90,8.99,15.59
+112,Oman,2014,OMR,0.90,2.84,2.34
+113,Pakistan,2014,PKR,111.00,2.60,1.12
+114,Palau,2014,USD,5.25,8.69,5.25
+115,Panama,2014,PAB,4.50,6.78,4.50
+116,Papua New Guinea,2014,PGK,17.00,9.16,6.94
+117,Paraguay,2014,PYG,8500.00,3.06,1.98
+118,Peru,2014,PEN,7.50,4.60,2.68
+119,Philippines,2014,PHP,55.00,2.11,1.27
+120,Poland,2014,PLN,14.70,7.37,4.73
+121,Portugal,2014,EUR,4.50,6.70,6.02
+122,Qatar,2014,QAR,10.00,2.76,2.75
+123,Republic of Korea,2014,KRW,2700.00,3.39,2.63
+124,Republic of Moldova,2014,MDL,22.00,2.80,1.58
+125,Romania,2014,RON,14.80,6.60,4.48
+126,Russian Federation,2014,RUB,87.00,3.15,2.44
+127,Rwanda,2014,RWF,1000.00,3.26,1.46
+128,Saint Kitts and Nevis,2014,XCD,7.50,3.33,2.78
+129,Saint Lucia,2014,XCD,16.68,10.12,6.18
+130,Saint Vincent and the Grenadines,2014,XCD,6.75,4.64,2.50
+131,San Marino,2014,EUR,4.50,4.68,6.02
+132,Sao Tome and Principe,2014,STD,60000.00,4.16,3.28
+133,Saudi Arabia,2014,SAR,10.00,3.42,2.67
+134,Senegal,2014,XOF,700.00,2.57,1.43
+135,Serbia,2014,RSD,260.00,5.69,2.98
+136,Seychelles,2014,SCR,93.00,13.19,7.56
+137,Sierra Leone,2014,SLL,6500.00,2.80,1.44
+138,Singapore,2014,SGD,13.00,12.31,10.44
+139,Slovakia,2014,EUR,3.37,6.26,4.51
+140,Slovenia,2014,EUR,3.90,6.39,5.22
+141,South Africa,2014,ZAR,33.60,5.67,3.14
+142,South Sudan,2010,Not applicable,Not applicable,Not applicable,Not applicable
+143,South Sudan,2008,Not applicable,Not applicable,Not applicable,Not applicable
+144,Spain,2014,EUR,4.95,6.82,6.62
+145,Sri Lanka,2014,LKR,700.00,10.78,5.38
+146,Sudan,2014,SDG,24.00,5.74,4.21
+147,Suriname,2014,SRD,13.00,5.61,3.94
+148,Sweden,2014,SEK,58.95,6.50,8.55
+149,Switzerland,2014,CHF,8.40,5.21,9.24
+150,Tajikistan,2014,TJS,12.00,5.42,2.42
+151,Thailand,2014,THB,90.00,5.07,2.81
+152,Timor-Leste,2014,USD,2.00,10.00,2.00
+153,Togo,2014,XOF,1000.00,3.40,2.04
+154,Tonga,2014,TOP,10.00,9.77,5.51
+155,Trinidad and Tobago,2014,TTD,25.00,3.82,3.91
+156,Tunisia,2014,TND,5.45,7.43,3.17
+157,Turkey,2014,TRY,10.00,7.02,4.78
+158,Turkmenistan,2014,TMT,13.00,5.86,4.56
+159,Tuvalu,2014,AUD,5.07,5.08,4.73
+160,Uganda,2014,UGX,6000.00,5.20,2.29
+161,Ukraine,2014,UAH,18.00,4.18,1.49
+162,United Arab Emirates,2014,AED,10.00,1.90,2.72
+163,United Kingdom of Great Britain and Northern Ireland,2014,GBP,9.00,13.18,15.19
+164,United Republic of Tanzania,2014,TZS,5000.00,7.30,3.02
+165,United States of America,2014,Not applicable,Not applicable,Not applicable,Not applicable
+166,Uruguay,2014,UYU,85.00,3.95,3.65
+167,Uzbekistan,2014,UZS,5000.00,4.36,2.14
+168,Vanuatu,2014,VUV,760.00,12.56,7.97
+169,Venezuela (Bolivarian Republic of),2014,VEF,95.00,15.97,15.12
+170,Viet Nam,2014,VND,22750.00,2.18,1.07
+171,Yemen,2014,YER,300.00,2.05,1.40
+172,Zambia,2014,ZMW,30.00,6.00,4.89
+173,Zimbabwe,2014,USD,2.00,1.61,2.00
