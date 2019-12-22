@@ -1,0 +1,777 @@
+index,Tax,Country,Year
+0,2.80,Afghanistan,2014
+1,2.45,Afghanistan,2012
+2,3.60,Afghanistan,2010
+3,7.79,Afghanistan,2008
+4,64.10,Albania,2014
+5,60.70,Albania,2012
+6,52.94,Albania,2010
+7,49.95,Albania,2008
+8,50.80,Algeria,2014
+9,50.79,Algeria,2012
+10,48.78,Algeria,2010
+11,52.46,Algeria,2008
+12,68.20,Andorra,2014
+13,56.27,Andorra,2012
+14,58.02,Andorra,2010
+15,. . .,Andorra,2008
+16,23.70,Angola,2014
+17,23.37,Angola,2012
+18,. . .,Angola,2010
+19,23.37,Angola,2008
+20,20.20,Antigua and Barbuda,2014
+21,21.84,Antigua and Barbuda,2012
+22,20.80,Antigua and Barbuda,2010
+23,20.80,Antigua and Barbuda,2008
+24,69.80,Argentina,2014
+25,69.93,Argentina,2012
+26,69.27,Argentina,2010
+27,69.20,Argentina,2008
+28,33.30,Armenia,2014
+29,25.00,Armenia,2012
+30,23.64,Armenia,2010
+31,22.00,Armenia,2008
+32,56.80,Australia,2014
+33,60.29,Australia,2012
+34,63.81,Australia,2010
+35,62.11,Australia,2008
+36,74.00,Austria,2014
+37,74.23,Austria,2012
+38,73.02,Austria,2010
+39,74.49,Austria,2008
+40,17.30,Azerbaijan,2014
+41,18.56,Azerbaijan,2012
+42,20.54,Azerbaijan,2010
+43,20.52,Azerbaijan,2008
+44,42.90,Bahamas,2014
+45,26.40,Bahamas,2012
+46,31.23,Bahamas,2010
+47,31.23,Bahamas,2008
+48,40.00,Bahrain,2014
+49,20.00,Bahrain,2012
+50,28.57,Bahrain,2010
+51,33.33,Bahrain,2008
+52,76.00,Bangladesh,2014
+53,71.00,Bangladesh,2012
+54,68.00,Bangladesh,2010
+55,67.00,Bangladesh,2008
+56,42.00,Barbados,2014
+57,48.20,Barbados,2012
+58,47.80,Barbados,2010
+59,47.77,Barbados,2008
+60,51.20,Belarus,2014
+61,42.48,Belarus,2012
+62,26.71,Belarus,2010
+63,23.25,Belarus,2008
+64,75.90,Belgium,2014
+65,76.08,Belgium,2012
+66,76.35,Belgium,2010
+67,77.43,Belgium,2008
+68,37.10,Belize,2014
+69,37.11,Belize,2012
+70,59.19,Belize,2010
+71,57.17,Belize,2008
+72,8.70,Benin,2014
+73,8.74,Benin,2012
+74,11.96,Benin,2010
+75,7.24,Benin,2008
+76,. . .,Bhutan,2014
+77,. . .,Bhutan,2012
+78,. . .,Bhutan,2010
+79,. . .,Bhutan,2008
+80,40.40,Bolivia (Plurinational State of),2014
+81,40.35,Bolivia (Plurinational State of),2012
+82,38.67,Bolivia (Plurinational State of),2010
+83,41.00,Bolivia (Plurinational State of),2008
+84,82.30,Bosnia and Herzegovina,2014
+85,74.82,Bosnia and Herzegovina,2012
+86,72.15,Bosnia and Herzegovina,2010
+87,56.50,Bosnia and Herzegovina,2008
+88,62.70,Botswana,2014
+89,51.99,Botswana,2012
+90,48.19,Botswana,2010
+91,48.06,Botswana,2008
+92,64.90,Brazil,2014
+93,63.15,Brazil,2012
+94,59.35,Brazil,2010
+95,57.15,Brazil,2008
+96,61.70,Brunei Darussalam,2014
+97,67.57,Brunei Darussalam,2012
+98,53.57,Brunei Darussalam,2010
+99,53.57,Brunei Darussalam,2008
+100,82.70,Bulgaria,2014
+101,83.58,Bulgaria,2012
+102,88.70,Bulgaria,2010
+103,85.44,Bulgaria,2008
+104,32.20,Burkina Faso,2014
+105,32.20,Burkina Faso,2012
+106,32.20,Burkina Faso,2010
+107,30.54,Burkina Faso,2008
+108,42.80,Burundi,2014
+109,53.69,Burundi,2012
+110,56.32,Burundi,2010
+111,58.99,Burundi,2008
+112,21.90,Cabo Verde,2014
+113,21.87,Cabo Verde,2012
+114,21.87,Cabo Verde,2010
+115,21.87,Cabo Verde,2008
+116,22.20,Cambodia,2014
+117,17.13,Cambodia,2012
+118,17.13,Cambodia,2010
+119,17.13,Cambodia,2008
+120,20.70,Cameroon,2014
+121,22.49,Cameroon,2012
+122,21.21,Cameroon,2010
+123,22.69,Cameroon,2008
+124,69.80,Canada,2014
+125,64.45,Canada,2012
+126,62.22,Canada,2010
+127,64.55,Canada,2008
+128,32.80,Central African Republic,2014
+129,0.00,Central African Republic,2012
+130,32.77,Central African Republic,2010
+131,32.77,Central African Republic,2008
+132,34.00,Chad,2014
+133,26.05,Chad,2012
+134,26.05,Chad,2010
+135,26.05,Chad,2008
+136,80.80,Chile,2014
+137,81.24,Chile,2012
+138,76.37,Chile,2010
+139,76.37,Chile,2008
+140,44.40,China,2014
+141,44.33,China,2012
+142,45.55,China,2010
+143,37.41,China,2008
+144,49.40,Colombia,2014
+145,50.59,Colombia,2012
+146,49.93,Colombia,2010
+147,34.31,Colombia,2008
+148,51.40,Comoros,2014
+149,51.38,Comoros,2012
+150,51.32,Comoros,2010
+151,41.90,Comoros,2008
+152,40.90,Congo,2014
+153,35.50,Congo,2012
+154,35.50,Congo,2010
+155,35.50,Congo,2008
+156,60.80,Cook Islands,2014
+157,71.08,Cook Islands,2012
+158,46.34,Cook Islands,2010
+159,46.07,Cook Islands,2008
+160,69.80,Costa Rica,2014
+161,71.50,Costa Rica,2012
+162,55.72,Costa Rica,2010
+163,55.72,Costa Rica,2008
+164,26.10,Côte d'Ivoire,2014
+165,25.33,Côte d'Ivoire,2012
+166,25.32,Côte d'Ivoire,2010
+167,25.32,Côte d'Ivoire,2008
+168,75.30,Croatia,2014
+169,71.00,Croatia,2012
+170,71.70,Croatia,2010
+171,60.70,Croatia,2008
+172,. . .,Cuba,2014
+173,75.13,Cuba,2012
+174,. . .,Cuba,2010
+175,75.00,Cuba,2008
+176,77.50,Cyprus,2014
+177,75.86,Cyprus,2012
+178,72.08,Cyprus,2010
+179,72.08,Cyprus,2008
+180,77.40,Czechia,2014
+181,77.61,Czechia,2012
+182,78.63,Czechia,2010
+183,82.83,Czechia,2008
+184,0.00,Democratic People's Republic of Korea,2014
+185,0.00,Democratic People's Republic of Korea,2012
+186,. . .,Democratic People's Republic of Korea,2010
+187,. . .,Democratic People's Republic of Korea,2008
+188,47.80,Democratic Republic of the Congo,2014
+189,39.40,Democratic Republic of the Congo,2012
+190,28.45,Democratic Republic of the Congo,2010
+191,28.89,Democratic Republic of the Congo,2008
+192,74.80,Denmark,2014
+193,79.33,Denmark,2012
+194,74.84,Denmark,2010
+195,73.39,Denmark,2008
+196,28.70,Djibouti,2014
+197,28.65,Djibouti,2012
+198,25.51,Djibouti,2010
+199,24.07,Djibouti,2008
+200,23.40,Dominica,2014
+201,23.40,Dominica,2012
+202,25.61,Dominica,2010
+203,25.61,Dominica,2008
+204,58.90,Dominican Republic,2014
+205,58.59,Dominican Republic,2012
+206,57.11,Dominican Republic,2010
+207,57.03,Dominican Republic,2008
+208,70.40,Ecuador,2014
+209,73.02,Ecuador,2012
+210,64.29,Ecuador,2010
+211,64.29,Ecuador,2008
+212,73.10,Egypt,2014
+213,72.50,Egypt,2012
+214,73.75,Egypt,2010
+215,59.27,Egypt,2008
+216,52.50,El Salvador,2014
+217,52.94,El Salvador,2012
+218,54.83,El Salvador,2010
+219,41.47,El Salvador,2008
+220,44.40,Equatorial Guinea,2014
+221,45.08,Equatorial Guinea,2012
+222,39.47,Equatorial Guinea,2010
+223,27.90,Equatorial Guinea,2008
+224,55.40,Eritrea,2014
+225,55.36,Eritrea,2012
+226,55.36,Eritrea,2010
+227,55.36,Eritrea,2008
+228,77.20,Estonia,2014
+229,76.88,Estonia,2012
+230,82.58,Estonia,2010
+231,77.33,Estonia,2008
+232,53.10,Eswatini,2014
+233,0.00,Eswatini,2012
+234,49.18,Eswatini,2010
+235,44.67,Eswatini,2008
+236,18.80,Ethiopia,2014
+237,34.33,Ethiopia,2012
+238,39.23,Ethiopia,2010
+239,25.07,Ethiopia,2008
+240,44.10,Fiji,2014
+241,40.84,Fiji,2012
+242,. . .,Fiji,2010
+243,49.58,Fiji,2008
+244,81.50,Finland,2014
+245,79.88,Finland,2012
+246,78.65,Finland,2010
+247,76.91,Finland,2008
+248,80.30,France,2014
+249,79.86,France,2012
+250,80.39,France,2010
+251,80.39,France,2008
+252,34.80,Gabon,2014
+253,34.81,Gabon,2012
+254,21.90,Gabon,2010
+255,21.17,Gabon,2008
+256,45.80,Gambia,2014
+257,38.14,Gambia,2012
+258,56.06,Gambia,2010
+259,52.44,Gambia,2008
+260,49.40,Georgia,2014
+261,46.83,Georgia,2012
+262,48.59,Georgia,2010
+263,48.59,Georgia,2008
+264,72.90,Germany,2014
+265,73.03,Germany,2012
+266,74.06,Germany,2010
+267,75.78,Germany,2008
+268,28.30,Ghana,2014
+269,22.88,Ghana,2012
+270,22.23,Ghana,2010
+271,26.89,Ghana,2008
+272,80.00,Greece,2014
+273,82.16,Greece,2012
+274,85.70,Greece,2010
+275,73.47,Greece,2008
+276,47.80,Grenada,2014
+277,0.00,Grenada,2012
+278,49.48,Grenada,2010
+279,40.50,Grenada,2008
+280,49.00,Guatemala,2014
+281,48.98,Guatemala,2012
+282,51.79,Guatemala,2010
+283,51.79,Guatemala,2008
+284,. . .,Guinea,2014
+285,36.58,Guinea,2012
+286,42.58,Guinea,2010
+287,41.57,Guinea,2008
+288,19.10,Guinea-Bissau,2014
+289,17.37,Guinea-Bissau,2012
+290,17.37,Guinea-Bissau,2010
+291,17.37,Guinea-Bissau,2008
+292,25.20,Guyana,2014
+293,25.19,Guyana,2012
+294,25.19,Guyana,2010
+295,28.04,Guyana,2008
+296,. . .,Haiti,2014
+297,0.00,Haiti,2012
+298,. . .,Haiti,2010
+299,. . .,Haiti,2008
+300,36.80,Honduras,2014
+301,34.03,Honduras,2012
+302,38.97,Honduras,2010
+303,45.25,Honduras,2008
+304,77.30,Hungary,2014
+305,83.66,Hungary,2012
+306,78.93,Hungary,2010
+307,74.05,Hungary,2008
+308,56.40,Iceland,2014
+309,56.96,Iceland,2012
+310,56.44,Iceland,2010
+311,58.33,Iceland,2008
+312,60.40,India,2014
+313,41.77,India,2012
+314,45.18,India,2010
+315,45.76,India,2008
+316,53.40,Indonesia,2014
+317,51.00,Indonesia,2012
+318,54.11,Indonesia,2010
+319,52.64,Indonesia,2008
+320,4.80,Iran (Islamic Republic of),2014
+321,2.70,Iran (Islamic Republic of),2012
+322,2.70,Iran (Islamic Republic of),2010
+323,2.70,Iran (Islamic Republic of),2008
+324,19.20,Iraq,2014
+325,4.20,Iraq,2012
+326,2.34,Iraq,2010
+327,2.34,Iraq,2008
+328,77.80,Ireland,2014
+329,78.97,Ireland,2012
+330,78.52,Ireland,2010
+331,79.53,Ireland,2008
+332,84.30,Israel,2014
+333,83.15,Israel,2012
+334,81.76,Israel,2010
+335,72.10,Israel,2008
+336,75.70,Italy,2014
+337,75.18,Italy,2012
+338,75.17,Italy,2010
+339,75.17,Italy,2008
+340,42.90,Jamaica,2014
+341,46.06,Jamaica,2012
+342,51.18,Jamaica,2010
+343,43.88,Jamaica,2008
+344,64.40,Japan,2014
+345,64.49,Japan,2012
+346,63.06,Japan,2010
+347,63.06,Japan,2008
+348,83.30,Jordan,2014
+349,76.52,Jordan,2012
+350,79.58,Jordan,2010
+351,77.20,Jordan,2008
+352,39.30,Kazakhstan,2014
+353,29.95,Kazakhstan,2012
+354,26.71,Kazakhstan,2010
+355,19.60,Kazakhstan,2008
+356,48.80,Kenya,2014
+357,48.79,Kenya,2012
+358,63.79,Kenya,2010
+359,76.29,Kenya,2008
+360,88.90,Kiribati,2014
+361,52.08,Kiribati,2012
+362,62.50,Kiribati,2010
+363,50.00,Kiribati,2008
+364,34.70,Kuwait,2014
+365,28.83,Kuwait,2012
+366,36.04,Kuwait,2010
+367,36.04,Kuwait,2008
+368,38.50,Kyrgyzstan,2014
+369,31.64,Kyrgyzstan,2012
+370,25.53,Kyrgyzstan,2010
+371,38.03,Kyrgyzstan,2008
+372,17.30,Lao People's Democratic Republic,2014
+373,19.97,Lao People's Democratic Republic,2012
+374,14.15,Lao People's Democratic Republic,2010
+375,12.15,Lao People's Democratic Republic,2008
+376,76.90,Latvia,2014
+377,79.14,Latvia,2012
+378,81.47,Latvia,2010
+379,71.51,Latvia,2008
+380,43.20,Lebanon,2014
+381,43.42,Lebanon,2012
+382,47.36,Lebanon,2010
+383,44.01,Lebanon,2008
+384,46.20,Lesotho,2014
+385,45.29,Lesotho,2012
+386,40.54,Lesotho,2010
+387,38.32,Lesotho,2008
+388,19.00,Liberia,2014
+389,20.10,Liberia,2012
+390,19.43,Liberia,2010
+391,12.00,Liberia,2008
+392,8.40,Libya,2014
+393,15.71,Libya,2012
+394,23.04,Libya,2010
+395,24.01,Libya,2008
+396,75.80,Lithuania,2014
+397,75.30,Lithuania,2012
+398,77.10,Lithuania,2010
+399,67.57,Lithuania,2008
+400,70.20,Luxembourg,2014
+401,70.59,Luxembourg,2012
+402,70.06,Luxembourg,2010
+403,70.10,Luxembourg,2008
+404,80.50,Madagascar,2014
+405,76.31,Madagascar,2012
+406,76.31,Madagascar,2010
+407,66.88,Madagascar,2008
+408,20.70,Malawi,2014
+409,25.61,Malawi,2012
+410,. . .,Malawi,2010
+411,49.23,Malawi,2008
+412,55.40,Malaysia,2014
+413,57.30,Malaysia,2012
+414,52.30,Malaysia,2010
+415,53.97,Malaysia,2008
+416,65.80,Maldives,2014
+417,48.65,Maldives,2012
+418,31.58,Maldives,2010
+419,30.00,Maldives,2008
+420,19.20,Mali,2014
+421,28.47,Mali,2012
+422,21.85,Mali,2010
+423,17.24,Mali,2008
+424,74.60,Malta,2014
+425,76.92,Malta,2012
+426,76.25,Malta,2010
+427,76.19,Malta,2008
+428,58.70,Marshall Islands,2014
+429,35.87,Marshall Islands,2012
+430,45.65,Marshall Islands,2010
+431,50.21,Marshall Islands,2008
+432,24.70,Mauritania,2014
+433,14.08,Mauritania,2012
+434,17.05,Mauritania,2010
+435,18.27,Mauritania,2008
+436,72.50,Mauritius,2014
+437,73.23,Mauritius,2012
+438,71.71,Mauritius,2010
+439,80.74,Mauritius,2008
+440,65.90,Mexico,2014
+441,66.62,Mexico,2012
+442,62.70,Mexico,2010
+443,61.17,Mexico,2008
+444,62.70,Micronesia (Federated States of),2014
+445,65.00,Micronesia (Federated States of),2012
+446,71.67,Micronesia (Federated States of),2010
+447,71.67,Micronesia (Federated States of),2008
+448,. . .,Monaco,2014
+449,0.00,Monaco,2012
+450,. . .,Monaco,2010
+451,. . .,Monaco,2008
+452,42.40,Mongolia,2014
+453,49.36,Mongolia,2012
+454,49.70,Mongolia,2010
+455,39.51,Mongolia,2008
+456,77.90,Montenegro,2014
+457,80.53,Montenegro,2012
+458,64.91,Montenegro,2010
+459,44.53,Montenegro,2008
+460,70.50,Morocco,2014
+461,67.71,Morocco,2012
+462,66.36,Morocco,2010
+463,66.36,Morocco,2008
+464,30.90,Mozambique,2014
+465,24.13,Mozambique,2012
+466,26.53,Mozambique,2010
+467,48.20,Mozambique,2008
+468,50.00,Myanmar,2014
+469,50.00,Myanmar,2012
+470,25.00,Myanmar,2010
+471,25.00,Myanmar,2008
+472,32.80,Namibia,2014
+473,38.61,Namibia,2012
+474,34.23,Namibia,2010
+475,30.81,Namibia,2008
+476,. . .,Nauru,2014
+477,0.00,Nauru,2012
+478,42.34,Nauru,2010
+479,41.36,Nauru,2008
+480,27.80,Nepal,2014
+481,29.86,Nepal,2012
+482,28.68,Nepal,2010
+483,24.27,Nepal,2008
+484,73.40,Netherlands,2014
+485,72.18,Netherlands,2012
+486,72.97,Netherlands,2010
+487,73.67,Netherlands,2008
+488,77.30,New Zealand,2014
+489,74.18,New Zealand,2012
+490,80.29,New Zealand,2010
+491,70.04,New Zealand,2008
+492,32.30,Nicaragua,2014
+493,29.11,Nicaragua,2012
+494,29.14,Nicaragua,2010
+495,19.79,Nicaragua,2008
+496,27.90,Niger,2014
+497,30.92,Niger,2012
+498,29.62,Niger,2010
+499,27.61,Niger,2008
+500,20.60,Nigeria,2014
+501,20.63,Nigeria,2012
+502,20.63,Nigeria,2010
+503,20.63,Nigeria,2008
+504,69.80,Niue,2014
+505,66.53,Niue,2012
+506,62.81,Niue,2010
+507,75.73,Niue,2008
+508,68.80,Norway,2014
+509,72.80,Norway,2012
+510,72.35,Norway,2010
+511,72.68,Norway,2008
+512,22.20,Oman,2014
+513,22.22,Oman,2012
+514,30.77,Oman,2010
+515,33.33,Oman,2008
+516,60.70,Pakistan,2014
+517,60.00,Pakistan,2012
+518,55.01,Pakistan,2010
+519,52.49,Pakistan,2008
+520,66.70,Palau,2014
+521,57.14,Palau,2012
+522,57.14,Palau,2010
+523,57.14,Palau,2008
+524,56.50,Panama,2014
+525,56.52,Panama,2012
+526,59.20,Panama,2010
+527,36.59,Panama,2008
+528,35.50,Papua New Guinea,2014
+529,37.35,Papua New Guinea,2012
+530,. . .,Papua New Guinea,2010
+531,41.95,Papua New Guinea,2008
+532,16.00,Paraguay,2014
+533,16.00,Paraguay,2012
+534,15.51,Paraguay,2010
+535,15.52,Paraguay,2008
+536,37.80,Peru,2014
+537,42.18,Peru,2012
+538,47.08,Peru,2010
+539,41.18,Peru,2008
+540,74.30,Philippines,2014
+541,28.85,Philippines,2012
+542,28.42,Philippines,2010
+543,28.95,Philippines,2008
+544,80.30,Poland,2014
+545,79.59,Poland,2012
+546,86.38,Poland,2010
+547,93.84,Poland,2008
+548,74.50,Portugal,2014
+549,76.02,Portugal,2012
+550,78.98,Portugal,2010
+551,79.60,Portugal,2008
+552,20.00,Qatar,2014
+553,22.22,Qatar,2012
+554,33.33,Qatar,2010
+555,33.33,Qatar,2008
+556,62.00,Republic of Korea,2014
+557,61.99,Republic of Korea,2012
+558,61.99,Republic of Korea,2010
+559,61.99,Republic of Korea,2008
+560,50.70,Republic of Moldova,2014
+561,43.74,Republic of Moldova,2012
+562,30.13,Republic of Moldova,2010
+563,21.67,Republic of Moldova,2008
+564,75.40,Romania,2014
+565,73.25,Romania,2012
+566,83.18,Romania,2010
+567,72.37,Romania,2008
+568,47.60,Russian Federation,2014
+569,40.48,Russian Federation,2012
+570,34.98,Russian Federation,2010
+571,30.35,Russian Federation,2008
+572,22.60,Rwanda,2014
+573,24.53,Rwanda,2012
+574,29.44,Rwanda,2010
+575,24.09,Rwanda,2008
+576,19.80,Saint Kitts and Nevis,2014
+577,19.96,Saint Kitts and Nevis,2012
+578,14.00,Saint Kitts and Nevis,2010
+579,18.20,Saint Kitts and Nevis,2008
+580,62.90,Saint Lucia,2014
+581,29.91,Saint Lucia,2012
+582,26.54,Saint Lucia,2010
+583,30.08,Saint Lucia,2008
+584,16.80,Saint Vincent and the Grenadines,2014
+585,15.96,Saint Vincent and the Grenadines,2012
+586,15.99,Saint Vincent and the Grenadines,2010
+587,16.15,Saint Vincent and the Grenadines,2008
+588,55.40,Samoa,2014
+589,59.79,Samoa,2012
+590,61.29,Samoa,2010
+591,62.53,Samoa,2008
+592,74.20,San Marino,2014
+593,74.17,San Marino,2012
+594,74.17,San Marino,2010
+595,. . .,San Marino,2008
+596,25.00,Sao Tome and Principe,2014
+597,25.00,Sao Tome and Principe,2012
+598,25.00,Sao Tome and Principe,2010
+599,25.00,Sao Tome and Principe,2008
+600,20.00,Saudi Arabia,2014
+601,22.22,Saudi Arabia,2012
+602,28.57,Saudi Arabia,2010
+603,33.33,Saudi Arabia,2008
+604,40.30,Senegal,2014
+605,30.25,Senegal,2012
+606,30.25,Senegal,2010
+607,26.94,Senegal,2008
+608,77.90,Serbia,2014
+609,80.76,Serbia,2012
+610,75.11,Serbia,2010
+611,62.05,Serbia,2008
+612,79.70,Seychelles,2014
+613,66.67,Seychelles,2012
+614,67.57,Seychelles,2010
+615,75.76,Seychelles,2008
+616,19.90,Sierra Leone,2014
+617,13.37,Sierra Leone,2012
+618,13.48,Sierra Leone,2010
+619,13.32,Sierra Leone,2008
+620,66.20,Singapore,2014
+621,65.70,Singapore,2012
+622,67.23,Singapore,2010
+623,67.23,Singapore,2008
+624,81.50,Slovakia,2014
+625,82.19,Slovakia,2012
+626,83.29,Slovakia,2010
+627,84.61,Slovakia,2008
+628,80.40,Slovenia,2014
+629,79.28,Slovenia,2012
+630,75.87,Slovenia,2010
+631,74.88,Slovenia,2008
+632,29.20,Solomon Islands,2014
+633,30.00,Solomon Islands,2012
+634,. . .,Solomon Islands,2010
+635,. . .,Solomon Islands,2008
+636,. . .,Somalia,2014
+637,7.48,Somalia,2012
+638,10.00,Somalia,2010
+639,10.00,Somalia,2008
+640,48.80,South Africa,2014
+641,45.68,South Africa,2012
+642,52.94,South Africa,2010
+643,44.72,South Africa,2008
+644,. . .,South Sudan,2014
+645,0.00,South Sudan,2012
+646,--,South Sudan,2010
+647,--,South Sudan,2008
+648,78.10,Spain,2014
+649,78.69,Spain,2012
+650,78.25,Spain,2010
+651,77.35,Spain,2008
+652,73.80,Sri Lanka,2014
+653,74.48,Sri Lanka,2012
+654,73.84,Sri Lanka,2010
+655,71.67,Sri Lanka,2008
+656,72.40,Sudan,2014
+657,72.43,Sudan,2012
+658,71.95,Sudan,2010
+659,71.95,Sudan,2008
+660,55.80,Suriname,2014
+661,60.94,Suriname,2012
+662,50.39,Suriname,2010
+663,57.85,Suriname,2008
+664,68.80,Sweden,2014
+665,73.83,Sweden,2012
+666,71.60,Sweden,2010
+667,71.85,Sweden,2008
+668,61.20,Switzerland,2014
+669,62.16,Switzerland,2012
+670,63.52,Switzerland,2010
+671,63.20,Switzerland,2008
+672,. . .,Syrian Arab Republic,2014
+673,58.00,Syrian Arab Republic,2012
+674,33.00,Syrian Arab Republic,2010
+675,33.00,Syrian Arab Republic,2008
+676,25.90,Tajikistan,2014
+677,30.78,Tajikistan,2012
+678,29.91,Tajikistan,2010
+679,. . .,Tajikistan,2008
+680,73.10,Thailand,2014
+681,70.22,Thailand,2012
+682,68.74,Thailand,2010
+683,63.78,Thailand,2008
+684,72.60,Republic of North Macedonia,2014
+685,71.22,Republic of North Macedonia,2012
+686,72.05,Republic of North Macedonia,2010
+687,72.05,Republic of North Macedonia,2008
+688,33.50,Timor-Leste,2014
+689,33.51,Timor-Leste,2012
+690,. . .,Timor-Leste,2010
+691,. . .,Timor-Leste,2008
+692,13.40,Togo,2014
+693,11.46,Togo,2012
+694,11.01,Togo,2010
+695,9.65,Togo,2008
+696,71.90,Tonga,2014
+697,63.04,Tonga,2012
+698,67.84,Tonga,2010
+699,54.14,Tonga,2008
+700,29.60,Trinidad and Tobago,2014
+701,32.58,Trinidad and Tobago,2012
+702,33.73,Trinidad and Tobago,2010
+703,36.69,Trinidad and Tobago,2008
+704,74.60,Tunisia,2014
+705,77.81,Tunisia,2012
+706,79.13,Tunisia,2010
+707,77.40,Tunisia,2008
+708,82.10,Turkey,2014
+709,80.25,Turkey,2012
+710,78.25,Turkey,2010
+711,73.25,Turkey,2008
+712,26.10,Turkmenistan,2014
+713,29.95,Turkmenistan,2012
+714,57.55,Turkmenistan,2010
+715,38.15,Turkmenistan,2008
+716,2.70,Tuvalu,2014
+717,14.82,Tuvalu,2012
+718,15.77,Tuvalu,2010
+719,. . .,Tuvalu,2008
+720,45.10,Uganda,2014
+721,40.25,Uganda,2012
+722,44.59,Uganda,2010
+723,59.25,Uganda,2008
+724,74.80,Ukraine,2014
+725,67.00,Ukraine,2012
+726,70.23,Ukraine,2010
+727,48.85,Ukraine,2008
+728,20.00,United Arab Emirates,2014
+729,25.00,United Arab Emirates,2012
+730,28.57,United Arab Emirates,2010
+731,30.77,United Arab Emirates,2008
+732,82.20,United Kingdom of Great Britain and Northern Ireland,2014
+733,80.12,United Kingdom of Great Britain and Northern Ireland,2012
+734,76.74,United Kingdom of Great Britain and Northern Ireland,2010
+735,76.57,United Kingdom of Great Britain and Northern Ireland,2008
+736,29.70,United Republic of Tanzania,2014
+737,28.15,United Republic of Tanzania,2012
+738,26.11,United Republic of Tanzania,2010
+739,34.69,United Republic of Tanzania,2008
+740,42.50,United States of America,2014
+741,42.93,United States of America,2012
+742,45.28,United States of America,2010
+743,36.57,United States of America,2008
+744,66.80,Uruguay,2014
+745,68.70,Uruguay,2012
+746,72.32,Uruguay,2010
+747,65.82,Uruguay,2008
+748,32.50,Uzbekistan,2014
+749,29.30,Uzbekistan,2012
+750,29.68,Uzbekistan,2010
+751,31.54,Uzbekistan,2008
+752,52.20,Vanuatu,2014
+753,53.68,Vanuatu,2012
+754,55.55,Vanuatu,2010
+755,56.25,Vanuatu,2008
+756,71.00,Venezuela (Bolivarian Republic of),2014
+757,71.04,Venezuela (Bolivarian Republic of),2012
+758,71.04,Venezuela (Bolivarian Republic of),2010
+759,70.79,Venezuela (Bolivarian Republic of),2008
+760,41.60,Viet Nam,2014
+761,41.59,Viet Nam,2012
+762,41.59,Viet Nam,2010
+763,41.59,Viet Nam,2008
+764,53.80,Yemen,2014
+765,52.57,Yemen,2012
+766,53.48,Yemen,2010
+767,54.70,Yemen,2008
+768,21.40,Zambia,2014
+769,23.65,Zambia,2012
+770,24.06,Zambia,2010
+771,36.11,Zambia,2008
+772,60.10,Zimbabwe,2014
+773,58.15,Zimbabwe,2012
+774,51.69,Zimbabwe,2010
+775,42.86,Zimbabwe,2008

@@ -1,0 +1,3 @@
+In the file 'Tobacco_cost.csv' the currency is for its own country.
+
+http://apps.who.int/gho/data/node.main.TOB1300MOSTSOLD?lang=en

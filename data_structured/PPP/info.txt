@@ -1,0 +1,18 @@
+https://data.oecd.org/conversion/purchasing-power-parities-ppp.htm
+
+https://data.europa.eu/euodp/en/data/dataset/ZN9WfkZbsqJqD6rZIKZO6A
+
+https://ec.europa.eu/eurostat/web/products-datasets/-/sdg_10_10
+
+https://datahub.io/core/ppp
+
+https://www.oecd-ilibrary.org/finance-and-investment/purchasing-power-parities-ppp/indicator/english_1290ee5a-en
+
+https://paldhous.github.io/ucb/2016/dataviz/datasets.html
+
+https://data.imf.org/?sk=388DFA60-1D26-4ADE-B505-A05A558D9A42&sId=1479329132316
+
+https://ucsd.libguides.com/data-statistics/country
+
+The file 'ppp-gdp_csv.csv' is downloaded from: https://datahub.io/core/ppp#resource-ppp_zip
+
