@@ -1,196 +1,196 @@
-,COUNTRY,Ban_Score
-0,Afghanistan,8
-1,Albania,8
-2,Algeria,5
-3,Andorra,0
-4,Angola,0
-5,Antigua and Barbuda,7
-6,Argentina,7
-7,Armenia,5
-8,Australia,6
-9,Austria,7
-10,Azerbaijan,8
-11,Bahamas,3
-12,Bahrain,7
-13,Bangladesh,8
-14,Barbados,0
-15,Belarus,7
-16,Belgium,6
-17,Belize,0
-18,Benin,8
-19,Bhutan,8
-20,Bolivia (Plurinational State of),6
-21,Bosnia and Herzegovina,6
-22,Botswana,6
-23,Brazil,8
-24,Brunei Darussalam,5
-25,Bulgaria,5
-26,Burkina Faso,7
-27,Burundi,8
-28,Cabo Verde,8
-29,Cambodia,8
-30,Cameroon,6
-31,Canada,5
-32,Central African Republic,0
-33,Chad,7
-34,Chile,8
-35,China,7
-36,Colombia,8
-37,Comoros,4
-38,Congo,8
-39,Cook Islands,5
-40,Costa Rica,8
-41,Côte d'Ivoire,0
-42,Croatia,8
-43,Cuba,0
-44,Cyprus,7
-45,Czechia,6
-46,Democratic People's Republic of Korea,0
-47,Democratic Republic of the Congo,8
-48,Denmark,7
-49,Djibouti,8
-50,Dominica,0
-51,Dominican Republic,0
-52,Ecuador,7
-53,Egypt,8
-54,El Salvador,7
-55,Equatorial Guinea,0
-56,Eritrea,8
-57,Estonia,7
-58,Ethiopia,8
-59,Fiji,4
-60,Finland,7
-61,France,6
-62,Gabon,7
-63,Gambia,8
-64,Georgia,8
-65,Germany,6
-66,Ghana,8
-67,Greece,5
-68,Grenada,0
-69,Guatemala,0
-70,Guinea,8
-71,Guinea-Bissau,0
-72,Guyana,8
-73,Haiti,0
-74,Honduras,6
-75,Hungary,6
-76,Iceland,7
-77,India,7
-78,Indonesia,0
-79,Iran (Islamic Republic of),8
-80,Iraq,6
-81,Ireland,6
-82,Israel,2
-83,Italy,7
-84,Jamaica,2
-85,Japan,0
-86,Jordan,8
-87,Kazakhstan,8
-88,Kenya,8
-89,Kiribati,6
-90,Kuwait,8
-91,Kyrgyzstan,7
-92,Lao People's Democratic Republic,6
-93,Latvia,7
-94,Lebanon,8
-95,Lesotho,0
-96,Liberia,0
-97,Libya,8
-98,Lithuania,7
-99,Luxembourg,6
-100,Madagascar,7
-101,Malawi,0
-102,Malaysia,8
-103,Maldives,8
-104,Mali,7
-105,Malta,7
-106,Marshall Islands,2
-107,Mauritania,8
-108,Mauritius,8
-109,Mexico,4
-110,Micronesia (Federated States of),4
-111,Monaco,0
-112,Mongolia,8
-113,Montenegro,7
-114,Morocco,4
-115,Mozambique,6
-116,Myanmar,7
-117,Namibia,8
-118,Nauru,5
-119,Nepal,8
-120,Netherlands,6
-121,New Zealand,6
-122,Nicaragua,4
-123,Niger,8
-124,Nigeria,8
-125,Niue,8
-126,North Macedonia,8
-127,Norway,6
-128,Oman,8
-129,Pakistan,6
-130,Palau,7
-131,Panama,8
-132,Papua New Guinea,6
-133,Paraguay,7
-134,Peru,4
-135,Philippines,7
-136,Poland,8
-137,Portugal,6
-138,Qatar,8
-139,Republic of Korea,5
-140,Republic of Moldova,8
-141,Romania,6
-142,Russian Federation,8
-143,Rwanda,0
-144,Saint Kitts and Nevis,0
-145,Saint Lucia,0
-146,Saint Vincent and the Grenadines,0
-147,Samoa,6
-148,San Marino,6
-149,Sao Tome and Principe,4
-150,Saudi Arabia,8
-151,Senegal,8
-152,Serbia,7
-153,Seychelles,8
-154,Sierra Leone,0
-155,Singapore,8
-156,Slovakia,7
-157,Slovenia,8
-158,Solomon Islands,5
-159,Somalia,0
-160,South Africa,5
-161,South Sudan,0
-162,Spain,7
-163,Sri Lanka,6
-164,Sudan,8
-165,Suriname,8
-166,Eswatini,8
-167,Sweden,7
-168,Switzerland,3
-169,Syrian Arab Republic,8
-170,Tajikistan,6
-171,Thailand,8
-172,Timor-Leste,7
-173,Togo,8
-174,Tonga,5
-175,Trinidad and Tobago,4
-176,Tunisia,6
-177,Turkey,8
-178,Turkmenistan,8
-179,Tuvalu,6
-180,Uganda,8
-181,Ukraine,7
-182,United Arab Emirates,8
-183,United Kingdom of Great Britain and Northern Ireland,7
-184,United Republic of Tanzania,7
-185,United States of America,2
-186,Uruguay,8
-187,Uzbekistan,5
-188,Vanuatu,6
-189,Venezuela (Bolivarian Republic of),4
-190,Viet Nam,8
-191,West Bank and Gaza Strip,8
-192,Yemen,8
-193,Zambia,0
-194,Zimbabwe,0
+Country,Ban_Score_Dir_Ads
+Afghanistan,8
+Albania,8
+Algeria,5
+Andorra,0
+Angola,0
+Antigua and Barbuda,7
+Argentina,7
+Armenia,5
+Australia,6
+Austria,7
+Azerbaijan,8
+Bahamas,3
+Bahrain,7
+Bangladesh,8
+Barbados,0
+Belarus,7
+Belgium,6
+Belize,0
+Benin,8
+Bhutan,8
+Bolivia (Plurinational State of),6
+Bosnia and Herzegovina,6
+Botswana,6
+Brazil,8
+Brunei Darussalam,5
+Bulgaria,5
+Burkina Faso,7
+Burundi,8
+Cabo Verde,8
+Cambodia,8
+Cameroon,6
+Canada,5
+Central African Republic,0
+Chad,7
+Chile,8
+China,7
+Colombia,8
+Comoros,4
+Congo,8
+Cook Islands,5
+Costa Rica,8
+Côte d'Ivoire,0
+Croatia,8
+Cuba,0
+Cyprus,7
+Czechia,6
+Democratic People's Republic of Korea,0
+Democratic Republic of the Congo,8
+Denmark,7
+Djibouti,8
+Dominica,0
+Dominican Republic,0
+Ecuador,7
+Egypt,8
+El Salvador,7
+Equatorial Guinea,0
+Eritrea,8
+Estonia,7
+Ethiopia,8
+Fiji,4
+Finland,7
+France,6
+Gabon,7
+Gambia,8
+Georgia,8
+Germany,6
+Ghana,8
+Greece,5
+Grenada,0
+Guatemala,0
+Guinea,8
+Guinea-Bissau,0
+Guyana,8
+Haiti,0
+Honduras,6
+Hungary,6
+Iceland,7
+India,7
+Indonesia,0
+Iran (Islamic Republic of),8
+Iraq,6
+Ireland,6
+Israel,2
+Italy,7
+Jamaica,2
+Japan,0
+Jordan,8
+Kazakhstan,8
+Kenya,8
+Kiribati,6
+Kuwait,8
+Kyrgyzstan,7
+Lao People's Democratic Republic,6
+Latvia,7
+Lebanon,8
+Lesotho,0
+Liberia,0
+Libya,8
+Lithuania,7
+Luxembourg,6
+Madagascar,7
+Malawi,0
+Malaysia,8
+Maldives,8
+Mali,7
+Malta,7
+Marshall Islands,2
+Mauritania,8
+Mauritius,8
+Mexico,4
+Micronesia (Federated States of),4
+Monaco,0
+Mongolia,8
+Montenegro,7
+Morocco,4
+Mozambique,6
+Myanmar,7
+Namibia,8
+Nauru,5
+Nepal,8
+Netherlands,6
+New Zealand,6
+Nicaragua,4
+Niger,8
+Nigeria,8
+Niue,8
+North Macedonia,8
+Norway,6
+Oman,8
+Pakistan,6
+Palau,7
+Panama,8
+Papua New Guinea,6
+Paraguay,7
+Peru,4
+Philippines,7
+Poland,8
+Portugal,6
+Qatar,8
+Republic of Korea,5
+Republic of Moldova,8
+Romania,6
+Russian Federation,8
+Rwanda,0
+Saint Kitts and Nevis,0
+Saint Lucia,0
+Saint Vincent and the Grenadines,0
+Samoa,6
+San Marino,6
+Sao Tome and Principe,4
+Saudi Arabia,8
+Senegal,8
+Serbia,7
+Seychelles,8
+Sierra Leone,0
+Singapore,8
+Slovakia,7
+Slovenia,8
+Solomon Islands,5
+Somalia,0
+South Africa,5
+South Sudan,0
+Spain,7
+Sri Lanka,6
+Sudan,8
+Suriname,8
+Eswatini,8
+Sweden,7
+Switzerland,3
+Syrian Arab Republic,8
+Tajikistan,6
+Thailand,8
+Timor-Leste,7
+Togo,8
+Tonga,5
+Trinidad and Tobago,4
+Tunisia,6
+Turkey,8
+Turkmenistan,8
+Tuvalu,6
+Uganda,8
+Ukraine,7
+United Arab Emirates,8
+United Kingdom of Great Britain and Northern Ireland,7
+United Republic of Tanzania,7
+United States of America,2
+Uruguay,8
+Uzbekistan,5
+Vanuatu,6
+Venezuela (Bolivarian Republic of),4
+Viet Nam,8
+West Bank and Gaza Strip,8
+Yemen,8
+Zambia,0
+Zimbabwe,0
