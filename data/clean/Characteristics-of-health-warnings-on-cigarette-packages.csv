@@ -1,196 +1,195 @@
-,COUNTRY,Ban_Score
-0,Afghanistan,7
-1,Albania,8
-2,Algeria,0
-3,Andorra,0
-4,Angola,0
-5,Antigua and Barbuda,9
-6,Argentina,10
-7,Armenia,2
-8,Australia,2
-9,Austria,8
-10,Azerbaijan,8
-11,Bahamas,0
-12,Bahrain,10
-13,Bangladesh,5
-14,Barbados,0
-15,Belarus,4
-16,Belgium,5
-17,Belize,0
-18,Benin,9
-19,Bhutan,6
-20,Bolivia (Plurinational State of),2
-21,Bosnia and Herzegovina,2
-22,Botswana,2
-23,Brazil,7
-24,Brunei Darussalam,5
-25,Bulgaria,2
-26,Burkina Faso,7
-27,Burundi,5
-28,Cabo Verde,2
-29,Cambodia,1
-30,Cameroon,2
-31,Canada,5
-32,Central African Republic,0
-33,Chad,7
-34,Chile,5
-35,China,3
-36,Colombia,8
-37,Comoros,3
-38,Congo,9
-39,Cook Islands,8
-40,Costa Rica,8
-41,Côte d'Ivoire,0
-42,Croatia,9
-43,Cuba,0
-44,Cyprus,8
-45,Czechia,4
-46,Democratic People's Republic of Korea,0
-47,Democratic Republic of the Congo,9
-48,Denmark,5
-49,Djibouti,10
-50,Dominica,0
-51,Dominican Republic,0
-52,Ecuador,7
-53,Egypt,7
-54,El Salvador,6
-55,Equatorial Guinea,0
-56,Eritrea,9
-57,Estonia,3
-58,Eswatini,7
-59,Ethiopia,6
-60,Fiji,6
-61,Finland,8
-62,France,9
-63,Gabon,4
-64,Gambia,10
-65,Georgia,9
-66,Germany,3
-67,Ghana,10
-68,Greece,3
-69,Grenada,0
-70,Guatemala,4
-71,Guinea,9
-72,Guinea-Bissau,0
-73,Guyana,10
-74,Haiti,0
-75,Honduras,0
-76,Hungary,6
-77,Iceland,7
-78,India,8
-79,Indonesia,4
-80,Iran (Islamic Republic of),10
-81,Iraq,4
-82,Ireland,4
-83,Israel,3
-84,Italy,1
-85,Jamaica,0
-86,Japan,0
-87,Jordan,2
-88,Kazakhstan,4
-89,Kenya,10
-90,Kiribati,9
-91,Kuwait,7
-92,Kyrgyzstan,7
-93,Lao People's Democratic Republic,4
-94,Latvia,3
-95,Lebanon,9
-96,Lesotho,0
-97,Liberia,0
-98,Libya,10
-99,Lithuania,8
-100,Luxembourg,8
-101,Madagascar,8
-102,Malawi,0
-103,Malaysia,5
-104,Maldives,8
-105,Mali,9
-106,Malta,6
-107,Marshall Islands,5
-108,Mauritania,5
-109,Mauritius,9
-110,Mexico,7
-111,Micronesia (Federated States of),0
-112,Monaco,0
-113,Mongolia,9
-114,Montenegro,7
-115,Morocco,4
-116,Mozambique,3
-117,Myanmar,3
-118,Namibia,4
-119,Nauru,5
-120,Nepal,10
-121,Netherlands,9
-122,New Zealand,6
-123,Nicaragua,0
-124,Niger,9
-125,Nigeria,10
-126,Niue,7
-127,North Macedonia,4
-128,Norway,8
-129,Oman,1
-130,Pakistan,5
-131,Palau,5
-132,Panama,10
-133,Papua New Guinea,6
-134,Paraguay,7
-135,Peru,0
-136,Philippines,2
-137,Poland,5
-138,Portugal,7
-139,Qatar,10
-140,Republic of Korea,2
-141,Republic of Moldova,9
-142,Romania,3
-143,Russian Federation,10
-144,Rwanda,3
-145,Saint Kitts and Nevis,0
-146,Saint Lucia,0
-147,Saint Vincent and the Grenadines,0
-148,Samoa,4
-149,San Marino,0
-150,Sao Tome and Principe,0
-151,Saudi Arabia,8
-152,Senegal,9
-153,Serbia,4
-154,Seychelles,9
-155,Sierra Leone,0
-156,Singapore,4
-157,Slovakia,5
-158,Slovenia,9
-159,Solomon Islands,5
-160,Somalia,0
-161,South Africa,7
-162,South Sudan,0
-163,Spain,9
-164,Sri Lanka,7
-165,Sudan,7
-166,Suriname,9
-167,Sweden,4
-168,Switzerland,0
-169,Syrian Arab Republic,7
-170,Tajikistan,3
-171,Thailand,6
-172,Timor-Leste,5
-173,Togo,10
-174,Tonga,6
-175,Trinidad and Tobago,3
-176,Tunisia,6
-177,Turkey,10
-178,Turkmenistan,9
-179,Tuvalu,7
-180,Uganda,10
-181,Ukraine,6
-182,United Arab Emirates,10
-183,United Kingdom of Great Britain and Northern Ireland,6
-184,United Republic of Tanzania,3
-185,United States of America,0
-186,Uruguay,10
-187,Uzbekistan,2
-188,Vanuatu,7
-189,Venezuela (Bolivarian Republic of),3
-190,Viet Nam,7
-191,West Bank and Gaza Strip,9
-192,Yemen,7
-193,Zambia,1
-194,Zimbabwe,2
+Country,Warn_Score
+Albania,50
+Algeria,15
+Andorra,0
+Angola,0
+Antigua and Barbuda,50
+Argentina,50
+Armenia,50
+Australia,83
+Austria,65
+Azerbaijan,30
+Bahamas,^
+Bahrain,50
+Bangladesh,50
+Barbados,60
+Belarus,50
+Belgium,65
+Belize,^
+Benin,75
+Bhutan,^
+Bolivia (Plurinational State of),50
+Bosnia and Herzegovina,0
+Botswana,0
+Brazil,65
+Brunei Darussalam,75
+Bulgaria,65
+Burkina Faso,60
+Burundi,50
+Cabo Verde,^
+Cambodia,55
+Cameroon,70
+Canada,75
+Central African Republic,^
+Chad,70
+Chile,50
+China,35
+Colombia,30
+Comoros,40
+Congo,30
+Cook Islands,50
+Costa Rica,50
+Côte d'Ivoire,^
+Croatia,65
+Cuba,30
+Cyprus,65
+Czechia,65
+Democratic People's Republic of Korea,^
+Democratic Republic of the Congo,50
+Denmark,65
+Djibouti,50
+Dominica,0
+Dominican Republic,^
+Ecuador,60
+Egypt,50
+El Salvador,50
+Equatorial Guinea,0
+Eritrea,30
+Estonia,50
+Eswatini,65
+Ethiopia,30
+Fiji,60
+Finland,65
+France,65
+Gabon,63
+Gambia,30
+Georgia,65
+Germany,65
+Ghana,50
+Greece,65
+Grenada,0
+Guatemala,13
+Guinea,30
+Guinea-Bissau,0
+Guyana,60
+Haiti,0
+Honduras,50
+Hungary,65
+Iceland,35
+India,85
+Indonesia,40
+Iran (Islamic Republic of),50
+Iraq,30
+Ireland,65
+Israel,30
+Italy,65
+Jamaica,60
+Japan,30
+Jordan,40
+Kazakhstan,50
+Kenya,40
+Kiribati,30
+Kuwait,50
+Kyrgyzstan,50
+Lao People's Democratic Republic,75
+Latvia,65
+Lebanon,40
+Lesotho,0
+Liberia,0
+Libya,25
+Lithuania,65
+Luxembourg,65
+Madagascar,50
+Malawi,0
+Malaysia,55
+Maldives,30
+Mali,30
+Malta,65
+Marshall Islands,^
+Mauritania,70
+Mauritius,65
+Mexico,65
+Micronesia (Federated States of),0
+Monaco,0
+Mongolia,65
+Montenegro,35
+Morocco,^
+Mozambique,28
+Myanmar,75
+Namibia,55
+Nauru,30
+Nepal,90
+Netherlands,65
+New Zealand,88
+Nicaragua,50
+Niger,50
+Nigeria,50
+Niue,90
+North Macedonia,35
+Norway,35
+Oman,50
+Pakistan,60
+Palau,0
+Panama,50
+Papua New Guinea,50
+Paraguay,40
+Peru,50
+Philippines,50
+Poland,65
+Portugal,65
+Qatar,50
+Republic of Korea,50
+Republic of Moldova,65
+Romania,65
+Russian Federation,50
+Rwanda,30
+Saint Kitts and Nevis,0
+Saint Lucia,50
+Saint Vincent and the Grenadines,0
+Samoa,60
+San Marino,0
+Sao Tome and Principe,^
+Saudi Arabia,65
+Senegal,70
+Serbia,35
+Seychelles,50
+Sierra Leone,0
+Singapore,50
+Slovakia,65
+Slovenia,65
+Solomon Islands,50
+Somalia,0
+South Africa,20
+South Sudan,0
+Spain,65
+Sri Lanka,80
+Sudan,15
+Suriname,50
+Sweden,65
+Switzerland,43
+Syrian Arab Republic,15
+Tajikistan,75
+Thailand,85
+Timor-Leste,93
+Togo,65
+Tonga,50
+Trinidad and Tobago,50
+Tunisia,30
+Turkey,85
+Turkmenistan,65
+Tuvalu,30
+Uganda,65
+Ukraine,50
+United Arab Emirates,50
+United Kingdom of Great Britain and Northern Ireland,65
+United Republic of Tanzania,30
+United States of America,50
+Uruguay,80
+Uzbekistan,40
+Vanuatu,90
+Venezuela (Bolivarian Republic of),65
+Viet Nam,50
+West Bank and Gaza Strip,10
+Yemen,50
+Zambia,^
+Zimbabwe,20
